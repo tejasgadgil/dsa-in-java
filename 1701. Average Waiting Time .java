@@ -28,7 +28,6 @@ class Solution {
 //    3     8    11   --> doneAt
 //   3-2    8-5   11-3 --> waitTime total
 
-
 // Time Complexity
 // O(n)
 // Space Complexity
